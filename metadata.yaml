@@ -1,0 +1,27 @@
+_repo: Hard-Pan-A-Story-of-Bonanza-Fortunes_63911
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2020-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63911'
+  lccn: '00005333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco (Calif.) -- Social life and customs -- Fiction'
+- !lcsh 'Gold miners -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Hard-Pan: A Story of Bonanza Fortunes'
+url: http://www.gutenberg.org/ebooks/63911
